@@ -1,0 +1,33 @@
+.SSS{
+    font-size: 10mm;
+}
+
+.linkedin{
+ margin-top: -4mm;
+}
+
+.facebook{
+    margin-right: -2mm;
+}
+
+.row{
+    padding-left: 20mm;
+    padding-right: 20mm;
+}
+
+.GSP{
+    font-family:'Times New Roman', Times, serif ;font-size:5mm;
+}
+
+.whatsapp{
+    margin-top: -0.5mm;
+    margin-left: -3.5mm;
+}
+
+body{
+    background-color: rgb(135, 238, 246);
+}
+
+.col-sm-4{
+    margin-top: -3mm;
+}
